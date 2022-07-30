@@ -4,6 +4,14 @@ Legend: :bookmark: - Client Side ONLY :violin: - Hosted on Modrinth :warning: - 
 
 Both Side won't be labled!!!
 
+### :star: Magic
+| Mod              | Slug           | Description                                                                                                                                     |
+| ---------------- | -------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Ⅰ] MixinBooter  | `mixinbooter)  | Mixin                                                                                                                                           |
+| [Ⅱ] Multiblocked | `multiblocked) | Multiblocked (mbd) is an extremely flexible yet vanilla-esque multiblock mod, that embraces aspects of MultiblockTweaker and Modular Machinery. |
+| [Ⅳ] TickCentral  | `tickcentral)  | Terminator_NL libs                                                                                                                              |
+| [Ⅴ] Patchouli    | `patchouli)    | Documentation for Everyone                                                                                                                      |
+
 ### :package: Libs
 
 | Mod              | Slug           | Description                                                                                                                                     |
