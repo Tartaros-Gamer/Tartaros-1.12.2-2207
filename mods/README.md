@@ -7,10 +7,8 @@ Both Side won't be labled!!!
 ### :star: Magic
 | Mod              | Slug           | Description                                                                                                                                     |
 | ---------------- | -------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Ⅰ] SchoolsOfMagic  | `mixinbooter)  | 魔法王国                                                                                                                                           |
+| [Ⅰ] SchoolsOfMagic  | `ImitationCore) `Llibrary)  | 魔法王国                                                                                                                                           |
 | [Ⅱ] SweetMagic | `multiblocked) | 甜蜜魔法 |
-| [Ⅳ] TickCentral  | `tickcentral)  | Terminator_NL libs                                                                                                                              |
-| [Ⅴ] Patchouli    | `patchouli)    | Documentation for Everyone                                                                                                                      |
 
 ### :package: Libs
 
@@ -20,6 +18,8 @@ Both Side won't be labled!!!
 | [Ⅱ] Multiblocked | `multiblocked) | Multiblocked (mbd) is an extremely flexible yet vanilla-esque multiblock mod, that embraces aspects of MultiblockTweaker and Modular Machinery. |
 | [Ⅳ] TickCentral  | `tickcentral)  | Terminator_NL libs                                                                                                                              |
 | [Ⅴ] Patchouli    | `patchouli)    | Documentation for Everyone                                                                                                                      |
+| [ⅤI] Patchouli    | `ImitationCore)    | Lib of SchoolsOfMagic                                                                                                                     |
+| [ⅤII] Patchouli    | `Llibrary)    | Lib of SchoolsOfMagic                                                                                                                      |
 
 ### :rocket: Optimization
 
