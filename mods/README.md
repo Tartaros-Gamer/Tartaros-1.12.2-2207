@@ -7,7 +7,7 @@ Both Side won't be labled!!!
 ### :star: Magic
 | Mod              | Slug           | Description                                                                                                                                     |
 | ---------------- | -------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Ⅰ] SchoolsOfMagic  | `ImitationCore) `Llibrary)  | 魔法王国                                                                                                                                           |
+| [Ⅰ] SchoolsOfMagic  | ImitationCore，Llibrary)  | 魔法王国                                                                                                                                           |
 | [Ⅱ] SweetMagic | `multiblocked) | 甜蜜魔法 |
 
 ### :package: Libs
