@@ -7,8 +7,8 @@ Both Side won't be labled!!!
 ### :star: Magic
 | Mod              | Slug           | Description                                                                                                                                     |
 | ---------------- | -------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Ⅰ] MixinBooter  | `mixinbooter)  | Mixin                                                                                                                                           |
-| [Ⅱ] Multiblocked | `multiblocked) | Multiblocked (mbd) is an extremely flexible yet vanilla-esque multiblock mod, that embraces aspects of MultiblockTweaker and Modular Machinery. |
+| [Ⅰ] SchoolsOfMagic  | `mixinbooter)  | 魔法王国                                                                                                                                           |
+| [Ⅱ] SweetMagic | `multiblocked) | 甜蜜魔法 |
 | [Ⅳ] TickCentral  | `tickcentral)  | Terminator_NL libs                                                                                                                              |
 | [Ⅴ] Patchouli    | `patchouli)    | Documentation for Everyone                                                                                                                      |
 
