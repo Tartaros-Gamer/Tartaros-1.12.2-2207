@@ -1,0 +1,13 @@
+name = "ImitationCore"
+filename = "ImitationCore1.12.2-1.0.00.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f1067c2b6b84c342dfdebd6117631a20b7a5f9cb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3211399
+project-id = 449108
