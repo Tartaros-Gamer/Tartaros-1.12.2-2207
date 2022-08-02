@@ -1,5 +1,2 @@
-<h6 align="center">1.7.10(Soon) | 🔼1.12.2 | 1.16.5(Soon)</h6>
-Yolo is a basic modpack cotaining **common** mods that fit everyone's 
-second modification and use cases.
-
-The purpose of it is making a fast startup for your game play or modification!
+这里是 Tartaros 的源文件，可快捷生成客户端内容!
+点击链接加入群聊 https://jq.qq.com/?_wv=1027&k=4Sd49q51
