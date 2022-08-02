@@ -10,14 +10,22 @@
 | Grimoire | grimoire | Mixin 框架，旨在帮助我们更好地修复 mod 问题 |
 | AllMusic  | allmusic  | 点歌       
 
+### :star: Magic
+| Mod                              | Slug           | Description                                                                                                                                     |
+|----------------------------------| -------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| [:package:ⅤI-ⅤII] SchoolsOfMagic | `schools-of-magic-mod)  | 魔法王国                                                                                                                                           |
+| [Ⅱ] SweetMagic                   | `multiblocked) | 甜蜜魔法 |
+
 ### :package: Libs
 
 | Mod              | Slug           | Description                                                                                                                                     |
-| ---------------- | -------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Ⅰ] MixinBooter  | [mixinbooter](https://www.curseforge.com/minecraft/mc-mods/mixinbooter  | Mixin                                                                                                                                           |
-| [Ⅱ] Multiblocked | [multiblocked](https://www.curseforge.com/minecraft/mc-mods/multiblocked | Multiblocked (mbd) is an extremely flexible yet vanilla-esque multiblock mod, that embraces aspects of MultiblockTweaker and Modular Machinery. |
-| [Ⅳ] TickCentral  | [tickcentral](https://www.curseforge.com/minecraft/mc-mods/tickcentral  | Terminator_NL libs                                                                                                                              |
-| [Ⅴ] Patchouli    | [patchouli](https://www.curseforge.com/minecraft/mc-mods/patchouli    | Documentation for Everyone                                                                                                                      |
+| ---------------- | -------------- |-------------------------------------------------------------------------------------------------------------------------------------------------|
+| [Ⅰ] MixinBooter  | `mixinbooter)  | Mixin                                                                                                                                           |
+| [Ⅱ] Multiblocked | `multiblocked) | Multiblocked (mbd) is an extremely flexible yet vanilla-esque multiblock mod, that embraces aspects of MultiblockTweaker and Modular Machinery. |
+| [Ⅳ] TickCentral  | `tickcentral)  | Terminator_NL libs                                                                                                                              |
+| [Ⅴ] Patchouli    | `patchouli)    | Documentation for Everyone                                                                                                                      |
+| [ⅤI] Patchouli    | `ImitationCore)    | 共享文档库                                                                                                                                           |
+| [ⅤII] Patchouli    | `Llibrary)    | Lib of SchoolsOfMagic                                                                                                                           |
 
 ### :rocket: Optimization
 
