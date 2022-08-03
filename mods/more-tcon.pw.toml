@@ -1,0 +1,13 @@
+name = "Moar TCon"
+filename = "moretcon-1.7.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b4a24f003636cc3c7230d84ab9da085f25588037"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3855898
+project-id = 396545

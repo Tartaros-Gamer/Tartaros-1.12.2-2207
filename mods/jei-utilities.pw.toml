@@ -1,0 +1,13 @@
+name = "JEI Utilities"
+filename = "JEI-Utilities-1.12.2-0.2.9.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9139adaf852f8c3f63f9639d0296b11c4a8de6de"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3835756
+project-id = 616190

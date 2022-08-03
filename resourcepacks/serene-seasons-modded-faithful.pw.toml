@@ -1,0 +1,13 @@
+name = "Serene Seasons [Modded Faithful]"
+filename = "Faithful - Serene Seasons - v0.0.1.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ec8c6d7bbd5b7278063143790b0c44aff5cd5690"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2782229
+project-id = 340949

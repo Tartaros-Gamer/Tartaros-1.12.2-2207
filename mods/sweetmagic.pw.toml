@@ -1,13 +1,13 @@
 name = "SweetMagic"
-filename = "SweetMagic-1.3.1-beta4.jar"
+filename = "SweetMagic-1.3.1-beta5.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "6fc7f8096dda798af022f6091b0ff059caff8668"
+hash = "cf717c5c8f6b0ebe6689e8b64ed3e57aa4d9bbd8"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3899000
+file-id = 3912514
 project-id = 415318
