@@ -5,6 +5,42 @@ file = "README.md"
 hash = "e15fd69cdfabcbde8b5fea4142adc9bdf31c652400345ae6263667d6966647a9"
 
 [[files]]
+file = "config/betterhud.cfg"
+hash = "0c14b9d6295726ae95386f4665c53aeb640110142a568a5ecfaacff6c71e01c5"
+
+[[files]]
+file = "config/entityculling.cfg"
+hash = "9e9d827424fe94fe63bf3379537269eb035149c4bb728b3e5c8827caec367dfb"
+
+[[files]]
+file = "config/quark.cfg"
+hash = "56f1149d5360e892ff774827f7bbdf6d2eff5fa46898a74a34bb879d20d1301e"
+
+[[files]]
+file = "config/thebetweenlands/config.cfg"
+hash = "1997707e1a9fc1562b25bbcdfb1d122ec5fff0271a494df266fd7c08a0124d17"
+
+[[files]]
+file = "config/thebetweenlands/config_version"
+hash = "92521fc3cbd964bdc9f584a991b89fddaa5754ed1cc96d6d42445338669c1305"
+
+[[files]]
+file = "config/travelersbackpack.cfg"
+hash = "1e2e471d0ce2e8505f04337edc681ba4a23764b773a11f0d14371933714c9af1"
+
+[[files]]
+file = "config/waila/theme/dark.json"
+hash = "cd2696aae34e17993d6eb737f7a1bc74d949058463bc304ae0ded14c5cac9f19"
+
+[[files]]
+file = "config/waila/theme/vanilla.json"
+hash = "b2aae1f2d5b272a9b533a6f13316aefe535173f379efc2ea48bd8fc327c7fa0b"
+
+[[files]]
+file = "config/waila/waila.cfg"
+hash = "c9772d6f2a7cb57bbeb231fb5791953f0e07c3ef21ce1d2217306c4ec3f99bbd"
+
+[[files]]
 file = "mods/EventHelper-1.12.2-2.8.1.jar"
 hash = "390ce446e3364896c4259c5b74fb45c06679e51622b307cf15a4122932717210"
 
@@ -153,6 +189,11 @@ hash = "87cd55802c4c818653122e673979b7cfa6f87915040fbf711cd17f35ca406d7d"
 metafile = true
 
 [[files]]
+file = "mods/clumps.pw.toml"
+hash = "2acbe0f770a8303ecea88bc3ceef4ea6f76cb69206f15229647fb4773f0d9198"
+metafile = true
+
+[[files]]
 file = "mods/codechicken-lib-1-8.pw.toml"
 hash = "09db900f940485fc925d28280350f6476cf65a54dc7cdd54925fb4dc1ea62363"
 metafile = true
@@ -185,11 +226,6 @@ metafile = true
 [[files]]
 file = "mods/elenai-dodge-2.pw.toml"
 hash = "98657b9a908b15c4741a53506ff81f5d6f6e659c94e8a29049e7bc21d69c4a29"
-metafile = true
-
-[[files]]
-file = "mods/emojicord.pw.toml"
-hash = "d807b5f20b55a465ab58fedf2515744e4f588b5676a2adb038b9fbf73cd1bdb5"
 metafile = true
 
 [[files]]
@@ -228,6 +264,11 @@ hash = "7b105b54c7699c0b657defbc6f9a9e83f090435b01f33fec6a445b1fd0ef0fc4"
 metafile = true
 
 [[files]]
+file = "mods/hwyla.pw.toml"
+hash = "b15f02099402261c19fb5419ce908d195987cae2163e9b0b6bc9dfbdc9c40bbe"
+metafile = true
+
+[[files]]
 file = "mods/i18nupdatemod.pw.toml"
 hash = "b528a0a8ec4c5c03b1caada1055677279220a9f04cba70af8cfe6021b9f135eb"
 metafile = true
@@ -235,6 +276,11 @@ metafile = true
 [[files]]
 file = "mods/item-filters.pw.toml"
 hash = "34d15131bc2ade2772fc98488400018f26b8e2ad38dee94c0d98890bb29e6c9e"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "444c9ed4f70cc87dab29246de73ee03c069ed3dbb13967d2576ad8b96bd1e504"
 metafile = true
 
 [[files]]
@@ -293,6 +339,11 @@ hash = "9b8f83542a1e4e5ab78881bda55bf597a33750224a4fef563f2a6f8edb62c595"
 metafile = true
 
 [[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "30746e92b44351d3365fa5aa6e43b623476c91116fb8b9f88b7233339d3c9f43"
+metafile = true
+
+[[files]]
 file = "mods/multiblocked.pw.toml"
 hash = "c74c1077cad33e34a4f83fa5e9c950b129ec2011b389272c80cf3e0e45c0344f"
 metafile = true
@@ -325,11 +376,6 @@ metafile = true
 [[files]]
 file = "mods/pams-harvestcraft.pw.toml"
 hash = "dade5565b8f7805ae408918e57828f691653fef01a7c25fd22c10d312f065d04"
-metafile = true
-
-[[files]]
-file = "mods/particle-culling.pw.toml"
-hash = "6b5635c1f63cd73494390d2eb499e20d93d8988e0679066bc0245a671b23baac"
 metafile = true
 
 [[files]]
@@ -425,6 +471,11 @@ file = "mods/spark-forge1122.jar"
 hash = "0454aa68c94b097ef218ce79a65438fd10f5d1f756f86bad015a78dd4bbd6776"
 
 [[files]]
+file = "mods/stepup.pw.toml"
+hash = "bdcfde01d9a3c8e6cbea5e4834def21f8b2e84f20d5c960d5a983107cafa554d"
+metafile = true
+
+[[files]]
 file = "mods/surge.pw.toml"
 hash = "074bfb3190441e1cf3f9857e538cd1bf043a5767ef49739fe5a7fef7bd2b551a"
 metafile = true
@@ -432,11 +483,6 @@ metafile = true
 [[files]]
 file = "mods/sweetmagic.pw.toml"
 hash = "5bcbaa74e039a2bac1e9a2fd3f73f8d310db3f6d56107d3896b76bec4cc27663"
-metafile = true
-
-[[files]]
-file = "mods/the-one-probe.pw.toml"
-hash = "a069130cac596da1efe44eb604eab6e2d166fd3c4f5db675e56c6bb4c76050e4"
 metafile = true
 
 [[files]]
@@ -498,7 +544,3 @@ metafile = true
 file = "resourcepacks/serene-seasons-modded-faithful.pw.toml"
 hash = "bf196a72fc735c69ab27aaceb7e83f7c2617d15c4675d2e10d36dfa7ac379f61"
 metafile = true
-
-[[files]]
-file = "笔记.txt"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"

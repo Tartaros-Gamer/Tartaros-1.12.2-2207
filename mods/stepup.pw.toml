@@ -1,0 +1,13 @@
+name = "StepUp"
+filename = "StepUp-1.0.2-mc1.10-1.12.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3ddfd1d3ddbc1bf40d2c305035edc63d9c581ddd"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2560363
+project-id = 239236
