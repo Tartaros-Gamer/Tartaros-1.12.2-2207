@@ -1,0 +1,13 @@
+name = "PowerMoney"
+filename = "PowerMoney-1.12.2-1.7.4.258.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6f96f9ad2d35a9edff53a7a49321bfe88e3f231a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3160356
+project-id = 306322

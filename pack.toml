@@ -1,4 +1,4 @@
-name = "Yolo-1.12.2"
+name = "Tartaros-1.12.2"
 author = "ahdg"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
@@ -6,7 +6,7 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "48c0c83b1b27de484de5674add068c9416115302119f7f912bfe0a563a1b7a31"
+hash = "e66e9a36134ee7225f605ecfd4191d52b73708386858fc1f8551499e40228b83"
 
 [versions]
 forge = "14.23.5.2860"

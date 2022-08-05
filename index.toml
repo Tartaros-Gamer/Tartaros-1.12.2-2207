@@ -5,6 +5,10 @@ file = "README.md"
 hash = "e15fd69cdfabcbde8b5fea4142adc9bdf31c652400345ae6263667d6966647a9"
 
 [[files]]
+file = "config/HungerOverhaul.cfg"
+hash = "cd5d3b6b20c4b03b46056b707d9e1602c2c2a3df7d1df2945c357b0fc602fa4f"
+
+[[files]]
 file = "config/betterhud.cfg"
 hash = "0c14b9d6295726ae95386f4665c53aeb640110142a568a5ecfaacff6c71e01c5"
 
@@ -14,7 +18,7 @@ hash = "9e9d827424fe94fe63bf3379537269eb035149c4bb728b3e5c8827caec367dfb"
 
 [[files]]
 file = "config/quark.cfg"
-hash = "56f1149d5360e892ff774827f7bbdf6d2eff5fa46898a74a34bb879d20d1301e"
+hash = "d8290b4da4773907df6c8ae24be96af3a4c460d8621576b477869e8fbdd3737d"
 
 [[files]]
 file = "config/thebetweenlands/config.cfg"
@@ -38,7 +42,7 @@ hash = "b2aae1f2d5b272a9b533a6f13316aefe535173f379efc2ea48bd8fc327c7fa0b"
 
 [[files]]
 file = "config/waila/waila.cfg"
-hash = "c9772d6f2a7cb57bbeb231fb5791953f0e07c3ef21ce1d2217306c4ec3f99bbd"
+hash = "166c68cd2e752f1229d25f4b6e0d5f35a5d34f65cc3ed59996bd99c4600c7019"
 
 [[files]]
 file = "mods/EventHelper-1.12.2-2.8.1.jar"
@@ -264,6 +268,11 @@ hash = "7b105b54c7699c0b657defbc6f9a9e83f090435b01f33fec6a445b1fd0ef0fc4"
 metafile = true
 
 [[files]]
+file = "mods/hunger-overhaul.pw.toml"
+hash = "09d102ad13f281a53037bf661868272a66468ed3f190453648ef77f3665d67f0"
+metafile = true
+
+[[files]]
 file = "mods/hwyla.pw.toml"
 hash = "b15f02099402261c19fb5419ce908d195987cae2163e9b0b6bc9dfbdc9c40bbe"
 metafile = true
@@ -408,6 +417,11 @@ file = "mods/portalsupercache-0.2.jar"
 hash = "cc9976be536946fb40b27524beb86b019b9d401636281f9c143b4e48750c4ccb"
 
 [[files]]
+file = "mods/powermoney.pw.toml"
+hash = "1b840ea482c562a2c508cc7ba43fccb9bd39322fcdb157d08aa4bd62aff2b753"
+metafile = true
+
+[[files]]
 file = "mods/preview_OptiFine_1.12.2_HD_U_G6_pre1.jar"
 hash = "58bd0865025a99d031220bdc855ede653aff865e49bda2064a31f4b1cf11622c"
 
@@ -467,8 +481,18 @@ hash = "01fd09cc916c576d3a581c1b781aa164b35eed1ef82ab14cd6788c83f094ce90"
 metafile = true
 
 [[files]]
+file = "mods/sound-filters.pw.toml"
+hash = "0cf8f002a5c13f8e06aaec8fe631e9469c6d32e701d3dfa3aceb7fd1ce27fe2f"
+metafile = true
+
+[[files]]
 file = "mods/spark-forge1122.jar"
 hash = "0454aa68c94b097ef218ce79a65438fd10f5d1f756f86bad015a78dd4bbd6776"
+
+[[files]]
+file = "mods/spice-of-life-carrot-edition.pw.toml"
+hash = "3c488bc1200c41f69e61d86b87389afcd936fac6e9378df07961458cb1f459de"
+metafile = true
 
 [[files]]
 file = "mods/stepup.pw.toml"
@@ -539,6 +563,15 @@ metafile = true
 file = "mods/what-fluid-fix.pw.toml"
 hash = "ee92f0456f45e989618e1226f742ed4ecbbc40f35cd7e9c257df78a96fd18540"
 metafile = true
+
+[[files]]
+file = "mods/worldeditcui-forge-edition-3.pw.toml"
+hash = "5e12dc7f4e314773c5c1fad830570cbdeab4eed47c43de8e7b63407c1cce4c2e"
+metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "9173b2e0baad9350bba00ef74e897cb88812b7b835cca553f660becb99d90f6a"
 
 [[files]]
 file = "resourcepacks/serene-seasons-modded-faithful.pw.toml"
