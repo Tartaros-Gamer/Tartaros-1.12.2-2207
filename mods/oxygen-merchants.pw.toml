@@ -1,0 +1,13 @@
+name = "Oxygen: Merchants"
+filename = "oxygen-merchants-1.12.2-0.11.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bb41de5002bf63e6a9390a726c4d83ef09d45642"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2974811
+project-id = 328248

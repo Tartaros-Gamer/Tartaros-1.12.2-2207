@@ -1,0 +1,13 @@
+name = "Oxygen: Daily Rewards"
+filename = "oxygen-daily-rewards-1.12.2-0.11.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "64c65fd4c9a5fb01ae921744aeaf158b63b324d1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2983941
+project-id = 359707

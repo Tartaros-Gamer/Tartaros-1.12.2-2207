@@ -1,0 +1,13 @@
+name = "Oxygen: Store"
+filename = "oxygen-store-1.12.2-0.11.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "42d80f712e5303e7f41dc1d82c7bb71665ff43e6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2981863
+project-id = 389575

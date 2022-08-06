@@ -1,0 +1,13 @@
+name = "Oxygen: Groups"
+filename = "oxygen-groups-1.12.2-0.11.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "86c3e9718d76c1bc2811891b2e29bbef4eddaa3c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2979503
+project-id = 320797

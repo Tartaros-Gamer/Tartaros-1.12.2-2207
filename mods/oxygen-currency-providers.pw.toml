@@ -1,0 +1,13 @@
+name = "Oxygen: Currency Providers"
+filename = "oxygen-cp-grand-economy-1.12.2-0.11.2.jar"
+side = "both"
+
+[download]
+hash-format = "murmur2"
+hash = "3284507231"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3050476
+project-id = 334153

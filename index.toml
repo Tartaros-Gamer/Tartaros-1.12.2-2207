@@ -5,10 +5,6 @@ file = "README.md"
 hash = "e15fd69cdfabcbde8b5fea4142adc9bdf31c652400345ae6263667d6966647a9"
 
 [[files]]
-file = "config/HungerOverhaul.cfg"
-hash = "cd5d3b6b20c4b03b46056b707d9e1602c2c2a3df7d1df2945c357b0fc602fa4f"
-
-[[files]]
 file = "config/betterhud.cfg"
 hash = "0c14b9d6295726ae95386f4665c53aeb640110142a568a5ecfaacff6c71e01c5"
 
@@ -17,12 +13,24 @@ file = "config/entityculling.cfg"
 hash = "9e9d827424fe94fe63bf3379537269eb035149c4bb728b3e5c8827caec367dfb"
 
 [[files]]
+file = "config/hungeroverhaul/HungerOverhaul.cfg"
+hash = "cd5d3b6b20c4b03b46056b707d9e1602c2c2a3df7d1df2945c357b0fc602fa4f"
+
+[[files]]
+file = "config/hungeroverhaul/blankslate.cfg"
+hash = "4ef6cb950b1823bf145aec34c031133e2b59b3afa376b32463a90aaa0e156795"
+
+[[files]]
+file = "config/hungeroverhaul/default.cfg"
+hash = "bab79d9886102254fc763ba791b8cde8c4d898213f979f047d128f8f1cab0e58"
+
+[[files]]
 file = "config/quark.cfg"
-hash = "d8290b4da4773907df6c8ae24be96af3a4c460d8621576b477869e8fbdd3737d"
+hash = "bbb173c6f572423fb2e87e1371f5f34fdf9cee1c29256949302f844ee06cb455"
 
 [[files]]
 file = "config/thebetweenlands/config.cfg"
-hash = "1997707e1a9fc1562b25bbcdfb1d122ec5fff0271a494df266fd7c08a0124d17"
+hash = "b918f42f9655da253f9455c15f622cfa1118085e210ed85f7d2c181e024c8ce9"
 
 [[files]]
 file = "config/thebetweenlands/config_version"
@@ -258,6 +266,16 @@ hash = "36981b2be0bc13cecaa765ac80c4ee3bd9d0c0ec36dc083812c08260d2268dfe"
 metafile = true
 
 [[files]]
+file = "mods/fullscreen-windowed-borderless-for-minecraft.pw.toml"
+hash = "1e11617d2d018647a41b00d6d04d57994e525be01d0cb22fccdffbe9919f358f"
+metafile = true
+
+[[files]]
+file = "mods/grand-economy.pw.toml"
+hash = "a93fd06cac235d3cc42330abf7a7b1adcf6417e33b06b09fbde74d590092c4ae"
+metafile = true
+
+[[files]]
 file = "mods/had-enough-characters.pw.toml"
 hash = "1df3d7966c7363204f7aed4fb87cee57cf5d0ccdf725d9582cdbb57af9d343af"
 metafile = true
@@ -383,6 +401,76 @@ hash = "065edcce9c3067d25b6b7fde5cdbe8e0f4209775cae773b1d917758b0097a656"
 metafile = true
 
 [[files]]
+file = "mods/oxygen-core.pw.toml"
+hash = "c46e4f196f3b7087aae6976434ea77fbb359b1a465833f93c18924ec25e12d7a"
+metafile = true
+
+[[files]]
+file = "mods/oxygen-currency-providers.pw.toml"
+hash = "53ddd280c9f421cc0a5fb71231009d28d466f3d7b9a4ede8fbedfa5039dc1a84"
+metafile = true
+
+[[files]]
+file = "mods/oxygen-daily-rewards.pw.toml"
+hash = "7f2718ba872e7700691be6950052f8a7b2928fe0a51e6840285d14365a48faec"
+metafile = true
+
+[[files]]
+file = "mods/oxygen-exchange.pw.toml"
+hash = "f0e51b678edc0d2b771c0cbfa6f83d456c72d513736fb3840be863953bed487e"
+metafile = true
+
+[[files]]
+file = "mods/oxygen-friends-list.pw.toml"
+hash = "5e456baff8de4331ba87ef15c5babf70e246cc3efab995542c62d48a78b7143b"
+metafile = true
+
+[[files]]
+file = "mods/oxygen-groups.pw.toml"
+hash = "fe53cb43aafb03d9a90f39f8605b09e692597280156061253f32c33d4ac858bf"
+metafile = true
+
+[[files]]
+file = "mods/oxygen-mail.pw.toml"
+hash = "43aee760db0b1992935c0c9c9dd0da2df237fb9870129dd10b3240e98803e4ae"
+metafile = true
+
+[[files]]
+file = "mods/oxygen-market.pw.toml"
+hash = "1adba7ff5c3f7eccc33ee04de590f54a4b11c7aba96fc70a2daf361858283065"
+metafile = true
+
+[[files]]
+file = "mods/oxygen-menu.pw.toml"
+hash = "23a1184611ec707100e5f1e3ecd4bf7c9800e2b19cbb7b317838125c223afa5d"
+metafile = true
+
+[[files]]
+file = "mods/oxygen-merchants.pw.toml"
+hash = "654d68d9121bfb1b7c215aed3d7fab0ae199d01ba591270365587b6fab02ecc8"
+metafile = true
+
+[[files]]
+file = "mods/oxygen-player-interaction.pw.toml"
+hash = "c6d76f58385c19b2c0ee60cac4075c988f98c2b8db8984edc90a521acae90f4e"
+metafile = true
+
+[[files]]
+file = "mods/oxygen-players-list.pw.toml"
+hash = "cc8f8e5e72693104a3aee09581583369fdb72f0cdb043175f4344bbd6e1a2df9"
+metafile = true
+
+[[files]]
+file = "mods/oxygen-store.pw.toml"
+hash = "883bf848ed62784dec4e73596b207aa8291e2b2ff7b9d9a2103ce20e141b2ab5"
+metafile = true
+
+[[files]]
+file = "mods/oxygen-teleportation.pw.toml"
+hash = "20756081b5842ca2e2cdc228ffa49b0e9e5dd0dd385967d79488ca21ffd3bdc7"
+metafile = true
+
+[[files]]
 file = "mods/pams-harvestcraft.pw.toml"
 hash = "dade5565b8f7805ae408918e57828f691653fef01a7c25fd22c10d312f065d04"
 metafile = true
@@ -458,6 +546,11 @@ metafile = true
 [[files]]
 file = "mods/roots.pw.toml"
 hash = "7d031bb6ba65cd3075005c4aabf9937da0cc9ca6632079d6e502127430dea9d2"
+metafile = true
+
+[[files]]
+file = "mods/scalingguis.pw.toml"
+hash = "ad3c0dc2ae1bddee5ec5a46ee03be713b0cddaa826d1f414de0b7371e00aa81f"
 metafile = true
 
 [[files]]

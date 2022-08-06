@@ -1,0 +1,13 @@
+name = "Oxygen: Friends List"
+filename = "oxygen-friends-list-1.12.2-0.11.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ddb594bf21cf02269312889f6f6a36c218592bba"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2974801
+project-id = 328245
