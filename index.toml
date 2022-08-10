@@ -5,6 +5,10 @@ file = "README.md"
 hash = "e15fd69cdfabcbde8b5fea4142adc9bdf31c652400345ae6263667d6966647a9"
 
 [[files]]
+file = "config/GrimoireAPI.cfg"
+hash = "1fc1fd76482230640efa621a63caf54039268e24b140db664d1624e04bd33280"
+
+[[files]]
 file = "config/betterhud.cfg"
 hash = "0c14b9d6295726ae95386f4665c53aeb640110142a568a5ecfaacff6c71e01c5"
 
@@ -53,16 +57,16 @@ file = "config/waila/waila.cfg"
 hash = "166c68cd2e752f1229d25f4b6e0d5f35a5d34f65cc3ed59996bd99c4600c7019"
 
 [[files]]
+file = "grimoire/Forge-Mixin.jar"
+hash = "bf39d77b5278c4f96e27b8b21f4bf3cd9a1baf2906596b4b9741e7d291c74f2f"
+
+[[files]]
 file = "mods/EventHelper-1.12.2-2.8.1.jar"
 hash = "390ce446e3364896c4259c5b74fb45c06679e51622b307cf15a4122932717210"
 
 [[files]]
 file = "mods/Grimoire-mc1.12.2-3.2.10.jar"
 hash = "1ed0035e2b580c9587f8707d73347f4a45eb3a924ffca6e64188ef8510b9db74"
-
-[[files]]
-file = "mods/InputMethodBlocker-1.11-1.12.2-2.2-SNAPSHOT.jar"
-hash = "debb1768df717bb092c4c43d7012000e906cb1dbf0e542dd1417a5ece1387a2b"
 
 [[files]]
 file = "mods/Nutrition-1.12.2-4.9.0.jar"
@@ -128,6 +132,11 @@ metafile = true
 [[files]]
 file = "mods/armor-underwear-mod.pw.toml"
 hash = "27e6241660318a3b504407b8e5bf7192dc42bf1bc6a15b7054d99cb598a09511"
+metafile = true
+
+[[files]]
+file = "mods/armory-expansion.pw.toml"
+hash = "98ff97a3743b42d3a1237997ce7db804ca772dae2edbb8186d90516701ed7be5"
 metafile = true
 
 [[files]]
@@ -218,6 +227,11 @@ metafile = true
 [[files]]
 file = "mods/cofh-world.pw.toml"
 hash = "00cb51528f1cd6f4e9924c8f53dd597d5e0e82a09c59645156ef1238c28e42df"
+metafile = true
+
+[[files]]
+file = "mods/constructs-armory.pw.toml"
+hash = "29da2f11889d325de6b9d702f7e9813fab7b48d0ecf1b5cf4a95dca438867519"
 metafile = true
 
 [[files]]
@@ -456,11 +470,6 @@ hash = "c6d76f58385c19b2c0ee60cac4075c988f98c2b8db8984edc90a521acae90f4e"
 metafile = true
 
 [[files]]
-file = "mods/oxygen-players-list.pw.toml"
-hash = "cc8f8e5e72693104a3aee09581583369fdb72f0cdb043175f4344bbd6e1a2df9"
-metafile = true
-
-[[files]]
 file = "mods/oxygen-store.pw.toml"
 hash = "883bf848ed62784dec4e73596b207aa8291e2b2ff7b9d9a2103ce20e141b2ab5"
 metafile = true
@@ -493,6 +502,11 @@ metafile = true
 [[files]]
 file = "mods/playerrevive.pw.toml"
 hash = "f4f48c5173082fbb0b804204872593248fe433dcb52bab8222610946b839953d"
+metafile = true
+
+[[files]]
+file = "mods/plusticminusbad.pw.toml"
+hash = "11bd5348b38df958e1ee9394827a48d8501be5da545f4c7c9a1f487784039765"
 metafile = true
 
 [[files]]
@@ -633,8 +647,18 @@ hash = "422bab705bb2314965c4e6714707b29300506ec6804f0429bb564e8daf8ed030"
 metafile = true
 
 [[files]]
+file = "mods/tinkers-aether-dman-edition.pw.toml"
+hash = "56210fbe0d097ae208332b671d0346216919d926962f1be7e0022bd8d2c6c436"
+metafile = true
+
+[[files]]
 file = "mods/tinkers-construct.pw.toml"
 hash = "86cf887ca862aaa6bc6967642ddbf122b9af31d2f02febad869139b111467e48"
+metafile = true
+
+[[files]]
+file = "mods/tinkers-oredict-cache.pw.toml"
+hash = "2a9e2617b44fef28ec594cf1e3edb446986c4ee93bac19306542db6bce097eee"
 metafile = true
 
 [[files]]
@@ -663,8 +687,13 @@ hash = "5e12dc7f4e314773c5c1fad830570cbdeab4eed47c43de8e7b63407c1cce4c2e"
 metafile = true
 
 [[files]]
+file = "mods/yarcf.pw.toml"
+hash = "729d0fb37a03b6244aad48f06c0048c7f4bc569592bc0bde256908e06a52a737"
+metafile = true
+
+[[files]]
 file = "options.txt"
-hash = "9173b2e0baad9350bba00ef74e897cb88812b7b835cca553f660becb99d90f6a"
+hash = "a46125c90c4cd3d5392655387e4835fb62b71486fb5464347bde83b1ef43ddd5"
 
 [[files]]
 file = "resourcepacks/serene-seasons-modded-faithful.pw.toml"
